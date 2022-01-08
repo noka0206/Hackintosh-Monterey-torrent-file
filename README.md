@@ -1,0 +1,2 @@
+# Hackintosh-Monterey-torrent-file
+download torrent file from repo. and download DMG from QBittorrent. download etcher, and flash DMG file to your USB. (minimum 16GB required) and this can be format warning BUT DO NOT FORMAT!!! just go to another partition and move EFI. EFI create guide can be found at https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html  when you finished move EFI, Pleasae boot into USB. Now, You can install monterey. 
